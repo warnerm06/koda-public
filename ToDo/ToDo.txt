@@ -1,0 +1,4 @@
+ToDo:
+
+1. Complete MulipleFileField extension validation for "Gallery". 
+2. Update Database for Front, Back, Image hex, and define types. 

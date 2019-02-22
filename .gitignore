@@ -1,0 +1,10 @@
+localConfig.py
+localConfig.ipynb
+.ipynb
+__pycache__
+rootkey.csv
+.ipynb_checkpoints
+.env
+alembic.ini
+JupyterNotebooks
+
